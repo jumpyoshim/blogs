@@ -18,8 +18,9 @@
 
 # 次のアクション
 
-- [Hello! Elasticsearch](https://medium.com/hello-elasticsearch)
-- [Classmethod 連載](https://dev.classmethod.jp/server-side/elasticsearch-getting-started-01/)
+- [形で考えるサーバーレス設計](https://aws.amazon.com/jp/serverless/patterns/serverless-pattern/)
+- [サーバーレスのウェブアプリケーションを構築する](https://aws.amazon.com/jp/getting-started/projects/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
+- [AWS Hands-on for Beginners 〜Serverless 編〜](https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-hands-on/)z
 
 # 質問
 
